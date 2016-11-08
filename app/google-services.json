@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "135446479457",
+    "firebase_url": "https://deft-advice-148213.firebaseio.com",
+    "project_id": "deft-advice-148213",
+    "storage_bucket": "deft-advice-148213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135446479457:android:9f1578c2804b78b6",
+        "android_client_info": {
+          "package_name": "ar.edu.utn.frsf.isi.dam.mymaptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135446479457-1vn9loagjhqnsi5bvcdf13fs93rdgeqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxrxEsU_0NbzNximMoh47gZWlvHok9Xzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

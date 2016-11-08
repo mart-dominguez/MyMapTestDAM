@@ -21,6 +21,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Button irMapa = (Button) findViewById(R.id.btnIrMapa);
+        Button testMsg = (Button) findViewById(R.id.btnRegistroFcm);
+        testMsg.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+            }
+        });
         i = new Intent(this, MapsActivity.class);
         irMapa.setOnClickListener(new View.OnClickListener() {
             @Override
